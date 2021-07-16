@@ -11,12 +11,14 @@ padding:2% 2%;
 border: 2px solid ${props => props.theme.black};
 border-radius: 10px;
 
+
 button{
   margin-left:20%;
   padding: 1% 4%;
   border:1.8px ${props => props.theme.black};
   border-radius: 10px;
 }
+
 
 div{
   margin:5%;
