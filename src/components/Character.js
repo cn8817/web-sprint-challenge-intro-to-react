@@ -18,6 +18,8 @@ button{
   border-radius: 10px;
 }
 `
+ 
+
 
 export default function Character(props){
     const { characterId, close } = props
