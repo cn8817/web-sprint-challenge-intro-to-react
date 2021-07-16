@@ -18,7 +18,6 @@ button{
   border-radius: 10px;
 }
 `
- 
 
 
 export default function Character(props){
@@ -65,6 +64,11 @@ export default function Character(props){
         </StyledCharacter>
     );
 }
+
+
+
+
+
 
 
 
